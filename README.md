@@ -1,4 +1,4 @@
-# Whatsapp_Clone - pt-BR
+# WhatsApp_Clone - pt-BR
 Este projeto foi desenvolvido com o intuito educacional, onde ilustra a estrutura de projeto utilizado pela gigante Whatsapp. Sendo simulado com a utilização das tecnologias Flutter e Firebase.
 
 ## Começando
