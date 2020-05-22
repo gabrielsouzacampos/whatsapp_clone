@@ -1,4 +1,4 @@
-# WhatsApp_Clone - pt-BR
+﻿# WhatsApp_Clone - pt-BR
 Este projeto foi desenvolvido com o intuito educacional, onde ilustra a estrutura de projeto utilizado pela gigante Whatsapp. Sendo simulado com a utilização das tecnologias Flutter e Firebase.
 
 ## Começando
@@ -57,4 +57,4 @@ and so it will be possible to connect with its features.
 The Firebase functionalities used were:
 - [Firebase Authentication](https://firebase.google.com/docs/auth): Complete user authentication solution, compatible with email / password accounts, phone authentication, Google login, Twitter, Facebook, GitHub and others.
 - [Cloud Storage](https://firebase.google.com/docs/storage): Complete solution for the storage and availability of user-generated content, such as photos or videos, easily and quickly.
-- [Cloud Firestore](https://firebase.google.com/docs/firestore): NoSQL document database that allows you to easily store, synchronize and query data for your mobile and web apps on a global scale.
+- [Cloud Firestore](https://firebase.google.com/docs/firestore): NoSQL document database that allows you to easily store, synchronize and query data for your mobile and web apps on a global scale..
