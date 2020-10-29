@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Happy" src=".github/logo.svg" height="100px">
+  <img alt="whatsapp clone" src=".github/logo.png" height="100px">
 </h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GabrielSouzaCampos/whatsapp_clone?color=15c3d6">
